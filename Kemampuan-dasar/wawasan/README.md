@@ -1,3 +1,5 @@
+Kemampuan Dasar 1
+
 1.pengertian Teknologi Informasi (TI)
 => Teknologi Informasi (TI), atau dalam bahasa Inggris dikenal dengan istilah Information technology (IT) adalah istilah umum untuk teknologi apa pun yang membantu manusia dalam membuat, mengubah, menyimpan, mengomunikasikan dan/atau menyebarkan informasi. TI menyatukan komputasi dan komunikasi berkecepatan tinggi untuk data, suara, dan video. Contoh dari Teknologi Informasi bukan hanya berupa komputer pribadi, tetapi juga telepon, TV,peralatan rumah tangga elektronik,dan peranti genggam modern (misalnya ponsel)
 
@@ -157,10 +159,70 @@ proses XP
 Extreme Programming menggunakan pendekatan berorientasi objek sebagai paradigma pengembangan yang disyaratkan dan mencakup seperangkat aturan dan praktik yang terjadi dalam konteks empat kegiatan kerangka kerja: perencanaan (planning), desain (design), pengkodean (coding), dan pengujian (testing)
 
 
+Kemampuan Dasar 2
+
+1. software engineering
+
+Rekayasa Perangkat Lunak (RPL, atau dalam bahasa Inggris: Software Engineering atau SE) adalah satu bidang profesi yang mendalami cara-cara pengembangan perangkat lunak termasuk pembuatan, pemeliharaan, manajemen organisasi pengembangan perangkat lunak dan manajemen kualitas
+
+2. Software Configuration Management
+adalah tugas melacak dan mengendalikan perubahan dalam perangkat lunak, bagian dari bidang lintas-disiplin yang lebih besar dari manajemen konfigurasi.
+
+Tujuan SCM umumnya:
+- Identifikasi konfigurasi - Mengidentifikasi konfigurasi, item konfigurasi, dan baseline.
+- Kontrol konfigurasi - Menerapkan proses perubahan terkendali. Ini biasanya dicapai dengan membuat papan kontrol perubahan yang fungsi   utamanya adalah untuk menyetujui atau menolak semua permintaan perubahan yang dikirim terhadap baseline apa pun.
+- Akuntansi status konfigurasi - Merekam dan melaporkan semua informasi yang diperlukan tentang status proses pengembangan.
+- Audit konfigurasi - Memastikan bahwa konfigurasi berisi semua bagian yang dimaksudkan dan sesuai dengan dokumen yang ditentukan, termasuk persyaratan, spesifikasi arsitektur, dan buku petunjuk.
+- Membangun manajemen - Mengelola proses dan alat yang digunakan untuk membangun.
+- Manajemen proses - Memastikan kepatuhan terhadap proses pengembangan organisasi.
+- Manajemen lingkungan - Mengelola perangkat lunak dan perangkat keras yang meng-host sistem.
+- Kerja Tim - Memfasilitasi interaksi tim yang terkait dengan proses.
+- Pelacakan cacat - Memastikan setiap cacat memiliki keterlacakan kembali ke sumbernya.
+
+3. Version Control dan Distributed Version Control
+
+Version Control : merupakan suatu sistem pengelolaan berbagai revisi atas perubahan dari suatu unit informasi baik berupa dokumen, kode sumber, ataupun informasi lainnya yang disimpan dalam media penyimpanan komputer. Setiap entitas perubahan biasanya diidentifikasikan dalam bentuk kode numerik ataupun serangkaian karakter yang diistilahkan sebagai "nomor revisi" atau sederhananya disebut "revisi"
+
+Distributed Version Control : Dalam pengembangan perangkat lunak, kontrol versi terdistribusi (juga dikenal sebagai kontrol revisi terdistribusi) adalah bentuk kontrol versi di mana basis kode lengkap, termasuk riwayat lengkapnya, dicerminkan pada setiap komputer pengembang
+
+Distributed vs. centralized
+Distributed : 
+keuntungan dari DVCS (dibandingkan dengan sistem terpusat) meliputi:
+1. Mengizinkan pengguna bekerja secara produktif saat tidak terhubung ke jaringan.
+2. Operasi umum (seperti melakukan, melihat sejarah, dan mengembalikan perubahan) lebih cepat untuk DVCS, karena tidak perlu         berkomunikasi dengan server pusat. [5] Dengan DVCS, komunikasi hanya diperlukan ketika berbagi perubahan di antara rekan-rekan lainnya.
+3. Mengizinkan pekerjaan pribadi, sehingga pengguna dapat menggunakan perubahan mereka bahkan untuk konsep awal yang tidak ingin mereka terbitkan.
+4. Salinan kerja berfungsi secara efektif sebagai cadangan jarak jauh, yang menghindari mengandalkan satu mesin fisik sebagai satu titik kegagalan.
+5. Mengizinkan berbagai model pengembangan untuk digunakan, seperti menggunakan cabang pengembangan atau model Komandan / Letnan.
+6. Izin kontrol terpusat dari "versi rilis" proyek
+7. Pada proyek perangkat lunak FOSS, jauh lebih mudah untuk membuat garpu proyek dari proyek yang macet karena konflik kepemimpinan atau ketidaksepakatan desain.
+
+Kerugian DVCS (dibandingkan dengan sistem terpusat) meliputi:
+1. Checkout awal repositori lebih lambat dibandingkan dengan checkout di sistem kontrol versi terpusat, karena semua cabang dan riwayat revisi disalin ke mesin lokal secara default.
+2. Kurangnya mekanisme penguncian yang merupakan bagian dari VCS paling terpusat dan masih memainkan peran penting ketika datang ke file biner yang tidak dapat digabungkan seperti aset grafik atau paket file biner atau XML file tunggal yang terlalu rumit (mis. Dokumen kantor, file PowerBI, SQL Server Paket BI Alat Data, dll.). [Rujukan?]
+3. Penyimpanan tambahan diperlukan bagi setiap pengguna untuk memiliki salinan lengkap dari sejarah basis kode lengkap. [6]
+4. Peningkatan paparan basis kode karena setiap peserta memiliki salinan yang rentan secara lokal
+
+4. Git 
+
+Git adalah perangkat lunak pengendali versi atau proyek manajemen kode perangkat lunak yang diciptakan oleh Linus Torvalds, yang pada awalnya ditujukan untuk pengembangan kernel Linux. Desain Git terinspirasi oleh BitKeeper dan Monotone. Git pada awalnya hanya dirancang sebagai mesin tingkat rendah yang dapat digunakan oleh tampilan muka (front end) lain seperti Cogito atau StGIT. Namun selanjutnya proyek inti Git telah berkembang menjadi pengendali revisi lengkap yang dapat digunakan langsung. Saat ini, beberapa perangkat lunak terkenal menggunakan Git sebagai pengendali revisinya. ntara lain kernel Linux, Server X.org, pengembangan inti OLPC (One Laptop per Child)
+
+5.Men-setup Git - Chapter 1 - Getting Started,
+
+Sistem Kontrol Versi Lokal
+Banyak pilihan metode kontrol versi orang adalah dengan menyalin file ke direktori lain (mungkin direktori yang bertanda waktu, jika mereka pintar). Pendekatan ini sangat umum karena sangat sederhana, tetapi juga sangat rentan kesalahan. Mudah melupakan direktori tempat Anda berada dan secara tidak sengaja menulis ke file yang salah atau menyalin file yang bukan milik saya
 
 
+Sistem Kontrol Versi Terpusat
+Masalah besar berikutnya yang dihadapi orang adalah mereka perlu berkolaborasi dengan pengembang di sistem lain. Untuk mengatasi masalah ini, Sistem Kontrol Versi Terpusat (CVCS) dikembangkan. Sistem ini (seperti CVS, Subversion, dan Perforce) memiliki server tunggal yang berisi semua file versi, dan sejumlah klien yang memeriksa file dari tempat sentral itu. Selama bertahun-tahun, ini telah menjadi standar untuk kontrol versi.
 
 
+Sistem Kontrol Versi Terdistribusi
+Di sinilah Sistem Kontrol Versi Terdistribusi (DVCS) masuk. Dalam DVCS (seperti Git, Mercurial, Bazaar, atau Darcs), klien tidak hanya perlu melihat snapshot terbaru dari file; melainkan, mereka sepenuhnya mencerminkan repositori, termasuk riwayat lengkapnya. Jadi, jika ada server yang mati, dan sistem ini berkolaborasi melalui server itu, salah satu repositori klien dapat disalin kembali ke server untuk memulihkannya. Setiap klon benar-benar merupakan cadangan penuh dari semua data.
+
+6. membuat account GitHub
+GitHub - Account Setup and Configuration
+
+GitHub adalah host tunggal terbesar untuk repositori Git, dan merupakan titik kolaborasi utama bagi jutaan pengembang dan proyek. Sebagian besar dari semua repositori Git di-host di GitHub, dan banyak proyek open-source menggunakannya untuk hosting Git, pelacakan masalah, tinjauan kode, dan hal-hal lainnya. Jadi, meskipun itu bukan bagian langsung dari proyek open source Git, ada peluang bagus bahwa Anda ingin atau perlu berinteraksi dengan GitHub di beberapa titik saat menggunakan Git secara profesional.
 
 
 
