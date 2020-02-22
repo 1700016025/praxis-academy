@@ -159,7 +159,7 @@ proses XP
 Extreme Programming menggunakan pendekatan berorientasi objek sebagai paradigma pengembangan yang disyaratkan dan mencakup seperangkat aturan dan praktik yang terjadi dalam konteks empat kegiatan kerangka kerja: perencanaan (planning), desain (design), pengkodean (coding), dan pengujian (testing)
 
 
-Kemampuan Dasar 2
+**Kemampuan Dasar 2**
 
 1. software engineering
 
