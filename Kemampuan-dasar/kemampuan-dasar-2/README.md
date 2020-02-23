@@ -1,6 +1,5 @@
 # Repository yang digunakan #
 
-* [Gambar](https://github.com/1700016025/praxis-academy/blob/master/Kemampuan-dasar/kemampuan-dasar-2/praktik-1.md)   praktik-1.md
-* [Gambar2](https://github.com/MegaOktavian/rhymes/tree/master/Gambar2) untuk praktik-2.md
-* [magang](https://github.com/hallo-team/magang) 
-* [wawasan](https://github.com/MegaOktavian/rhymes/tree/master/Wawasan) 
+* [Praktik-1.md](https://github.com/1700016025/praxis-academy/blob/master/Kemampuan-dasar/kemampuan-dasar-2/praktik-1.md)
+* [Gambar](https://github.com/khoriers/IMAGE-ELSA/tree/master/IMAGE%20ELSA)
+* [wawasan](https://github.com/1700016025/praxis-academy/tree/master/Kemampuan-dasar/wawasan) 
