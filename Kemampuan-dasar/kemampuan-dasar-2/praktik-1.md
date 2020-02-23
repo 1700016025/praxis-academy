@@ -10,6 +10,8 @@
 
 3. Inisialisasi git di folder yang telah dibuat
 
+    ![gambar 3](https://github.com/khoriers/IMAGE-ELSA/blob/master/IMAGE%20ELSA/3.png)
+
 4. Membuat satu file dengan perintah touch kemudian commit file tersebut
 
 5. mengecek status commit
