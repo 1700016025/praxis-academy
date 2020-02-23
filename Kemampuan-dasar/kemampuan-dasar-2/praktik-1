@@ -1,6 +1,8 @@
 #Kemampuan Dasar 2
 
-1. Membuat new folder dengan nama rhymes ![gambar 1](https://github.com/khoriers/IMAGE-ELSA/blob/master/IMAGE%20ELSA/1.jpg)
+1. Membuat new folder dengan nama rhymes 
+
+        ![gambar 1](https://github.com/khoriers/IMAGE-ELSA/blob/master/IMAGE%20ELSA/1.jpg)
 2. Masuk ke directory ![gambar 2](https://github.com/khoriers/IMAGE-ELSA/blob/master/IMAGE%20ELSA/2.jpg)
 3. Inisialisasi git di folder yang telah dibuat ![gambar 3](https://github.com/khoriers/IMAGE-ELSA/blob/master/IMAGE%20ELSA/3.jpg)
 4. Membuat satu file dengan perintah touch kemudian commit file tersebut ![gambar 4](https://github.com/khoriers/IMAGE-ELSA/blob/master/IMAGE%20ELSA/4.jpg)
