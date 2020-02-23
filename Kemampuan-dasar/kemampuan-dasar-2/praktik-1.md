@@ -6,8 +6,11 @@
     ![gambar 1](https://github.com/khoriers/IMAGE-ELSA/blob/master/IMAGE%20ELSA/1.png)
     
 **2. Masuk ke directory**
+
     
     ![gambar 2](https://github.com/khoriers/IMAGE-ELSA/blob/master/IMAGE%20ELSA/2.png)
+    
+    
 
 **3. Inisialisasi git di folder yang telah dibuat**
 
