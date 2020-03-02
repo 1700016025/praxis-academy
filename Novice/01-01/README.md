@@ -8,5 +8,7 @@
 
 ## Ringkasan Materi 
 
-## Penjelasaan tentang isi repo
+## Penjelasaan tentang isi repo : Hari ini mempelajari tentang JavaScript dan Program Structure
+
+ 
 
