@@ -1,7 +1,7 @@
-## Minggu 01
+  ## Minggu 01
 
-## Hari Ke 1 : Ekosistem dan Pemprograman Dasar JavaScript
+## Hari Ke 1  : Ekosistem dan Pemprograman Dasar JavaScript
 
-## Oleh : Dian Pertiwi
+## Oleh       : Dian Pertiwi
 
-## Tanggal : 02 Maret 2020
+## Tanggal    : 02 Maret 2020
