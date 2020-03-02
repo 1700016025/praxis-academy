@@ -15,8 +15,7 @@
 ## Program Structure
 ## Expressions and statements : Sebuah fragmen kode yang menghasilkan nilai disebut ekspresi. Setiap nilai yang ditulis secara harfiah (seperti 22 atau "psikoanalisis") adalah ekspresi. Ekspresi antara tanda kurung juga merupakan ekspresi, seperti halnya operator biner yang diterapkan pada dua ekspresi atau operator unary yang diterapkan pada satu
 ## Ini menunjukkan bagian dari keindahan antarmuka berbasis bahasa. Ekspresi dapat mengandung ekspresi lain dengan cara yang mirip dengan bagaimana subsensi dalam bahasa manusia bersarang — subsensi dapat mengandung subsensinya sendiri, dan seterusnya. Ini memungkinkan kami untuk membangun ekspresi yang menggambarkan perhitungan rumit yang arbitrari.
-
-Jika ekspresi sesuai dengan fragmen kalimat, pernyataan JavaScript sesuai dengan kalimat lengkap. Program adalah daftar pernyataan.
+## Jika ekspresi sesuai dengan fragmen kalimat, pernyataan JavaScript sesuai dengan kalimat lengkap. Program adalah daftar pernyataan.
 
 
 ## Penjelasaan tentang isi repo : Hari ini mempelajari tentang JavaScript dan Program Structure
