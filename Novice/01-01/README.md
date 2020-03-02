@@ -1,4 +1,4 @@
-## 01-01
+## Minggu 01
 
 ## Hari Ke 1 : Ekosistem dan Pemprograman Dasar JavaScript
 
