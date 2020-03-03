@@ -24,6 +24,10 @@
 
 ## switch statement : Pernyataan peralihan memungkinkan suatu program untuk mengevaluasi ekspresi dan berupaya mencocokkan nilai ekspresi dengan label kasus. Jika kecocokan ditemukan, program mengeksekusi pernyataan terkait
 
+## break statements : Pernyataan istirahat opsional yang terkait dengan setiap klausa kasus memastikan bahwa program keluar dari sakelar setelah pernyataan yang cocok dijalankan, dan kemudian melanjutkan eksekusi pada sakelar pernyataan berikut. Jika istirahat dihilangkan, program melanjutkan eksekusi di dalam pernyataan switch (dan akan mengevaluasi kasus selanjutnya, dan seterusnya).
+
+## Utilizing Error objects : Bergantung pada jenis kesalahan, Anda mungkin dapat menggunakan properti nama dan pesan untuk mendapatkan pesan yang lebih halus
+
 ## Exception handling statements
 ## Anda bisa melempar pengecualian menggunakan pernyataan melempar dan menanganinya menggunakan try ... catch statement
 
@@ -47,9 +51,7 @@
 ## for...in statement : Statement for...in mengiterasi sebuah variabel spesifik diatas properti enumerable dari sebuah objek. Untuk setiap properti yang berbeda, JavaScript mengeksekusi pernyataan pernyataan yang spesifik
 
 
-
-
-## Penjelasaan tentang isi repo : 
+## Penjelasaan tentang isi repo : hari ini mempelajari Materi di MDN tentang pengendali alur dan Materi di MDN tentang iterasi dan looping.
 
  
 
