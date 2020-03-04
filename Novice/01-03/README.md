@@ -1,6 +1,6 @@
 ## Minggu 03
 
-## Hari Ke 3  : 
+## Hari Ke 3  : Function / Fungsi di JavaScript
 
 ## Oleh       : Dian Pertiwi
 
