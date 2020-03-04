@@ -48,7 +48,13 @@
 
 ## fuction Hoisting : Selain variabel, mengangkat berlaku untuk fungsi yang dibuat menggunakan sintaks deklarasi function.
 
-## Penjelasaan tentang isi repo :
+## Penjelasaan tentang isi repo : 
+## Pengertian fungsi
+## Definisi dan pemanggilan fungsi
+## Ruang lingkup variabel
+## Nested functions dan closure
+## Fungsi generator
+Fungsi arrow
  
 
 
