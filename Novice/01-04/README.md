@@ -1,4 +1,4 @@
-## Minggu 04
+## Minggu 01
 
 ## Hari Ke 4  : String dan Regular Expression
 
