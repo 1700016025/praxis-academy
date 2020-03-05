@@ -1,4 +1,4 @@
-## Minggu 02
+## Minggu 01
 
 ## Hari Ke 2  : 
 
