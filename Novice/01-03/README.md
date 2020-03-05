@@ -1,4 +1,4 @@
-## Minggu 03
+## Minggu 01
 
 ## Hari Ke 3  : Function / Fungsi di JavaScript
 
