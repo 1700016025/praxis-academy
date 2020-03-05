@@ -40,7 +40,7 @@
 ## Advanced searching with flags : Ekspresi reguler memiliki enam flag opsional yang memungkinkan fungsi seperti pencarian global dan case-sensitive. Bendera ini dapat digunakan secara terpisah atau bersama dalam urutan apa pun, dan dimasukkan sebagai bagian dari ekspresi reguler.
 
 ## Penjelasaan tentang isi repo : 
-1.	Obyek String di JavaScript
+### 1.	Obyek String di JavaScript
 2.	Gambaran umum RegExp
 3.	Pola dan RegExp
 4.	Karakter-karakter RegExp dan penggunaannya
