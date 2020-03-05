@@ -1,6 +1,6 @@
 ## Minggu 01
 
-## Hari Ke 2  : 
+## Hari Ke 2  : Pengendali Alur , iterasi dan looping
 
 ## Oleh       : Dian Pertiwi
 
