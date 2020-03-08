@@ -1,95 +1,13 @@
-document.writeln("Membuat MATRIKS")
+var data_a = [2, 3, 2];
+var data_b = [1, 1, 6];
 
-document.writeln("<PRE>")
+var hasil_1 = data_a[0] + data_b[0];
+var hasil_2 = data_a[1] + data_b[1];
+var hasil_3 = data_a[2] + data_b[2];
 
-document.writeln("</PRE>")
 
-document.writeln(" A = ")
+console.log(data_a[0], data_a[1], data_a[2]);
+console.log(data_b[0], data_b[1], data_b[2]);
+console.log("Hasil :");
 
-var a = new Array (2);
-
-a[0]=new Array(2);
-
-a[1]=new Array(2);
-
-a[0][0]=1;a[0][1]=2;a[1][0]=3;a[1][1]=4;
-
-document.writeln("<PRE>")
-
-document.writeln("</PRE>")
-
-document.writeln(a[0][0])
-
-document.writeln(a[0][1])
-
-document.writeln("<PRE>")
-
-document.writeln("</PRE>")
-
-document.writeln(a[1][0])
-
-document.writeln(a[1][1])
-
-document.writeln("<PRE>")
-
-document.writeln("</PRE>")
-
-var b = new Array (2);
-
-b[0]=new Array(2);
-
-b[1]=new Array(2);
-
-b[0][0]=5;b[0][1]=6;b[1][0]=7;b[1][1]=8;
-
-document.writeln(" B = ")
-
-document.writeln("<PRE>")
-
-document.writeln("</PRE>")
-
-document.writeln(b[0][0])
-
-document.writeln(b[0][1])
-
-document.writeln("<PRE>")
-
-document.writeln("</PRE>")
-
-document.writeln(b[1][0])
-
-document.writeln(b[1][1])
-
-document.writeln("<PRE>")
-
-document.writeln("</PRE>")
-
-document.writeln(" C = ")
-
-document.writeln("<PRE>")
-
-document.writeln("</PRE>")
-
-var c = new Array (2);
-
-c[0]=new Array(2);
-
-c[1]=new Array(2);
-
-for (var i=0; i<2; i++)
-
-    for (var j=0; j<2; j++)
-
-    c[i][j]=a[i][j]+b[i][j];
-
-document.writeln(c[0][0])
-
-document.writeln(c[0][1])
-
-document.writeln("<PRE>")
-
-document.writeln("</PRE>")
-
-document.writeln(c[1][0])
-
-document.writeln(c[1][1])
+console.log(hasil_1, hasil_2, hasil_3);
