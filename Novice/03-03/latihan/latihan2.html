@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>minion</title>
+    </head>
+    <style>body { min-height: 200px }</style>
+    <body>
+<img src="img/minion.png" id="hat" style="position: absolute">
+
+<script>
+  
+  let hat = document.querySelector("#minion");
+
+  let angle = 0;
+  let lastTime = null;
+  function animate(time) {
+    if (lastTime != null) angle += (time - lastTime) * 0.001;
+    lastTime = time;
+   
+    cat.style.left = (Math.cos(angle) * 200 + 230) + "px";
+
+    // Your extensions here.
+
+    requestAnimationFrame(animate);
+  }
+  requestAnimationFrame(animate);
+</script>
+    </body>
+</html>
