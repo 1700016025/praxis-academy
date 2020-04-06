@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>Latihan Base Example</title>
+        <script src="https://unpkg.com/vue"></script>
+    </head>
+
+    <body>
+        <!-- kebab-case in HTML -->
+        <blog-post post-title="hello!"></blog-post>
+        
+        </script>
+
+        <script>
+
+            Vue.component('blog-post', {
+            // camelCase in JavaScript
+            props: ['postTitle'],
+            template: '<h3>{{ postTitle }}</h3>'
+          })
+
+        </script>
+    </body>
+</html>
